@@ -40,14 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Girijaraut&show_icons=true&theme=radical" alt="Girija's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girijaraut&layout=compact&theme=radical"/>
-</p>
-
----
 
 ### 🌐 Connect With Me
 <p>
