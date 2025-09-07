@@ -5,13 +5,14 @@
 
 ### 💫 About Me
 - 🎓 Completed **Bachelor’s in Artificial Intelligence & Machine Learning (AIML)**  
-- 📚 Loved diving deep into **NLP, AI, ML, and Statistics**  
+- 📚 Loved diving deep into **NLP, AI, ML, Data science and Statistics**  
 - 💼 Industry experience through internships:  
   - **Comtranse** – AI Intern (Sophomore year)  
   - **Veloce Tech Insight** – Trainee Intern (Senior year)  
 - 🚀 Built exciting projects like:  
-  - 🍎 **Fruit Grading & Classification**  
-  - 🙂 **Emotion Detection System**  
+  - **Fruit Grading & Classification**  
+  - **Emotion Detection System** 
+  -  
 - 🌱 Currently learning: **Deep Learning, Generative AI, and Advanced NLP**  
 - 🤝 Open to collaborating on **AI/ML projects** that solve real-world problems  
 
@@ -53,4 +54,4 @@
 
 ---
 
-✨ *A girly techie on a mission to make AI smarter & friendlier!* 🌸
+
