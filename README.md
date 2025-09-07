@@ -12,7 +12,7 @@
 - 🚀 Built exciting projects like:  
   - **Fruit Grading & Classification**  
   - **Emotion Detection System** 
-  -  
+  - **Music Rcommendation System**
 - 🌱 Currently learning: **Deep Learning, Generative AI, and Advanced NLP**  
 - 🤝 Open to collaborating on **AI/ML projects** that solve real-world problems  
 
