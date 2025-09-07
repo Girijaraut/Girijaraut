@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Girija Raut</h1>
-<h3 align="center">✨ A girly techie exploring AI/ML ✨</h3>
 
 ---
 
