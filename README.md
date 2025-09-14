@@ -4,10 +4,10 @@
 
 ### 💫 About Me
 - 🎓 Completed **Bachelor’s in Artificial Intelligence & Machine Learning (AIML)**  
-- 📚 Loved diving deep into **NLP, AI, ML, Data science and Statistics**  
+- 📚 Loved diving deep into **Data analysis,NLP, AI, ML, Data science and Statistics**  
 - 💼 Industry experience through internships:  
-  - **Comtranse** – AI Intern (Sophomore year)  
-  - **Veloce Tech Insight** – Trainee Intern (Senior year)  
+  - **Veloce Tech Insight** – Data and Machine Learning intern 
+  - **Comtranse** – AI Intern   
 - 🚀 Built exciting projects like:  
   - **Fruit Grading & Classification**  
   - **Emotion Detection System** 
@@ -32,11 +32,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
----
-
-### 📌 Featured Projects
-- 🍎 [Fruit Grading & Classification](#)  
-- 🙂 [Emotion Detection System](#)  
 
 ---
 
